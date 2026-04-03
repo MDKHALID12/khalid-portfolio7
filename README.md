@@ -2,4 +2,4 @@
 
 ## Project info
 
-**URL**: khalid-portfolio7.netlify.app
+**URL**:https://khalid-portfolio7.netlify.app/
